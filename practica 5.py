@@ -5,4 +5,4 @@ if a >0 and b > 0:
   c = a + b
 else:
   c = a * b
-print ("la suma es: ",c)
+print ("el resultado es: ",c)
